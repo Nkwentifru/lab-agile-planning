@@ -1,6 +1,6 @@
 ---
-name: user story
-about: This template is to create user stories
+name: User Story
+about: This templet is for creating user stories
 title: ''
 labels: ''
 assignees: ''
